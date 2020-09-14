@@ -1,0 +1,5 @@
+package com.sindhu.capstone.repository;
+
+public class CustomerOrderRepository {
+
+}

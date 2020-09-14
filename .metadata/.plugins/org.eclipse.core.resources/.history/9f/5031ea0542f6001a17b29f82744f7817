@@ -1,0 +1,5 @@
+package com.sindhu.capstone.exception;
+
+public class ResourceNotFoundException {
+
+}
